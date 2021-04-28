@@ -1,0 +1,26 @@
+.center {
+    text-align: center;
+}
+body {
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
+.info {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+   border: 1px solid #c7c7c7;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    
+}
+marquee {
+    background-color: indianred
+}
+div {
+    justify-content: center;
+    align-content: center;
+}
